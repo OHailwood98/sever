@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-06-11 19:29:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-06-08 17:38:17 +0100"
@@ -344,6 +350,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2019-06-09 16:31:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-06-11 19:29:26 +0100"
     },
     "done": true
   },
@@ -583,9 +595,11 @@
       "minecraft:spider": "2019-06-08 15:44:00 +0100",
       "minecraft:creeper": "2019-06-08 17:52:17 +0100",
       "minecraft:slime": "2019-06-09 20:53:36 +0100",
+      "minecraft:phantom": "2019-06-11 19:47:43 +0100",
       "minecraft:wither_skeleton": "2019-06-08 21:38:29 +0100",
       "minecraft:silverfish": "2019-06-08 20:46:40 +0100",
       "minecraft:stray": "2019-06-08 21:24:17 +0100",
+      "minecraft:enderman": "2019-06-11 19:24:36 +0100",
       "minecraft:zombie": "2019-06-08 15:44:49 +0100",
       "minecraft:drowned": "2019-06-08 15:14:43 +0100",
       "minecraft:zombie_villager": "2019-06-09 12:22:59 +0100"
@@ -595,6 +609,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2019-06-09 16:10:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-06-11 20:22:54 +0100"
     },
     "done": true
   },
@@ -2105,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2019-06-11 19:23:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2019-06-08 15:31:09 +0100"
@@ -2378,6 +2404,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2019-06-08 15:51:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2019-06-11 18:37:33 +0100"
     },
     "done": true
   },

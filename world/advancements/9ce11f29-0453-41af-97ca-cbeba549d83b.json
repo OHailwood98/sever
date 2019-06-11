@@ -227,9 +227,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2019-06-11 18:11:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2019-06-08 15:55:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-06-11 19:14:50 +0100"
     },
     "done": true
   },
@@ -338,6 +350,18 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2019-06-08 17:02:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-06-11 19:14:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wooden_fences": "2019-06-11 18:24:59 +0100"
     },
     "done": true
   },
@@ -567,6 +591,8 @@
       "minecraft:spider": "2019-06-08 15:46:55 +0100",
       "minecraft:creeper": "2019-06-08 16:13:03 +0100",
       "minecraft:slime": "2019-06-10 19:28:40 +0100",
+      "minecraft:phantom": "2019-06-11 19:46:07 +0100",
+      "minecraft:witch": "2019-06-11 17:07:54 +0100",
       "minecraft:wither_skeleton": "2019-06-09 17:09:29 +0100",
       "minecraft:enderman": "2019-06-09 13:10:19 +0100",
       "minecraft:stray": "2019-06-10 19:08:39 +0100",
@@ -762,6 +788,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-06-11 20:41:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2019-06-08 17:21:13 +0100"
@@ -843,6 +875,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2019-06-08 22:01:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2019-06-11 18:52:46 +0100"
     },
     "done": true
   },
@@ -1257,6 +1295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2019-06-11 20:31:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-06-09 16:28:50 +0100"
@@ -1320,6 +1364,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-06-09 12:13:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2019-06-11 18:11:55 +0100"
     },
     "done": true
   },
@@ -1603,6 +1653,7 @@
       "baked_potato": "2019-06-09 12:51:44 +0100",
       "beetroot_soup": "2019-06-10 19:34:20 +0100",
       "apple": "2019-06-08 17:16:22 +0100",
+      "potato": "2019-06-11 18:19:29 +0100",
       "cooked_cod": "2019-06-10 19:42:01 +0100",
       "bread": "2019-06-08 15:39:12 +0100",
       "rotten_flesh": "2019-06-08 15:36:12 +0100",
@@ -2291,6 +2342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2019-06-11 20:31:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-06-09 12:13:08 +0100"
@@ -2336,6 +2393,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2019-06-08 16:40:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2019-06-11 20:12:31 +0100"
     },
     "done": true
   },

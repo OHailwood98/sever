@@ -209,6 +209,14 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2019-06-11 21:35:28 +0100",
+      "diamond_helmet": "2019-06-11 21:35:28 +0100",
+      "diamond_chestplate": "2019-06-11 21:35:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-06-08 16:18:20 +0100"
@@ -606,6 +614,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2019-06-11 20:25:27 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-06-08 15:42:55 +0100"
@@ -964,7 +978,8 @@
       "minecraft:silverfish": "2019-06-08 18:01:38 +0100",
       "minecraft:enderman": "2019-06-08 18:40:59 +0100",
       "minecraft:zombie": "2019-06-08 15:15:40 +0100",
-      "minecraft:drowned": "2019-06-08 15:21:34 +0100"
+      "minecraft:drowned": "2019-06-08 15:21:34 +0100",
+      "minecraft:zombie_villager": "2019-06-11 20:43:56 +0100"
     },
     "done": false
   },
@@ -1367,6 +1382,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-06-08 15:55:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2019-06-11 20:21:19 +0100"
     },
     "done": true
   },
@@ -1812,6 +1833,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-06-11 20:06:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-06-08 16:25:44 +0100"
@@ -1887,6 +1914,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-06-08 15:43:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-06-11 20:25:27 +0100"
     },
     "done": true
   },

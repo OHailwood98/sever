@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2019-06-12 14:52:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-06-08 15:22:03 +0100"
@@ -296,6 +302,12 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2019-06-09 01:58:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-06-12 18:18:07 +0100"
     },
     "done": true
   },
@@ -620,6 +632,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-06-08 18:16:14 +0100",
+      "minecraft:zombie_pigman": "2019-06-12 18:18:05 +0100",
       "minecraft:spider": "2019-06-08 16:21:37 +0100",
       "minecraft:creeper": "2019-06-08 17:40:35 +0100",
       "minecraft:slime": "2019-06-09 16:40:50 +0100",
@@ -631,9 +644,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2019-06-12 13:42:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2019-06-08 15:54:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-06-12 15:01:19 +0100"
     },
     "done": true
   },
@@ -850,6 +875,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2019-06-09 02:16:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-06-12 13:37:46 +0100"
     },
     "done": true
   },
@@ -1225,6 +1256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2019-06-12 13:42:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2019-06-08 16:08:21 +0100"
@@ -1304,6 +1341,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-06-08 15:22:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2019-06-12 17:08:41 +0100"
     },
     "done": true
   },
@@ -1514,6 +1557,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-06-08 15:22:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2019-06-12 13:42:54 +0100"
     },
     "done": true
   },
@@ -1823,6 +1872,7 @@
       "sweet_berries": "2019-06-09 23:39:43 +0100",
       "cooked_beef": "2019-06-08 17:42:06 +0100",
       "apple": "2019-06-08 17:03:17 +0100",
+      "spider_eye": "2019-06-12 17:08:49 +0100",
       "cooked_cod": "2019-06-08 21:38:52 +0100",
       "bread": "2019-06-08 21:48:00 +0100",
       "beetroot": "2019-06-09 01:15:38 +0100",
@@ -2037,9 +2087,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2019-06-12 14:52:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2019-06-09 18:56:17 +0100",
+      "minecraft:sheep": "2019-06-12 15:17:07 +0100",
       "minecraft:cow": "2019-06-09 13:13:11 +0100",
       "minecraft:chicken": "2019-06-09 00:00:58 +0100"
     },
@@ -2291,6 +2348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2019-06-12 13:42:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-06-08 19:43:33 +0100"
@@ -2318,6 +2381,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-06-08 17:16:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2019-06-12 13:42:54 +0100"
     },
     "done": true
   },
@@ -2444,6 +2513,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2019-06-08 18:07:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2019-06-12 14:52:15 +0100"
     },
     "done": true
   },
@@ -2777,6 +2852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-06-12 13:37:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-06-08 15:32:29 +0100"
@@ -2822,6 +2903,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_blue_dye": "2019-06-09 02:16:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-06-12 13:37:46 +0100"
     },
     "done": true
   },
@@ -2882,6 +2969,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2019-06-08 15:30:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-06-12 18:11:24 +0100"
     },
     "done": true
   },

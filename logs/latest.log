@@ -1,0 +1,30 @@
+[00:01:00] [Server thread/WARN]: Fetching addPacket for removed entity
+[00:01:17] [Server thread/WARN]: Fetching addPacket for removed entity
+[00:02:48] [Server thread/INFO]: keirmcrae1233 lost connection: Disconnected
+[00:02:48] [Server thread/INFO]: keirmcrae1233 left the game
+[00:02:50] [User Authenticator #30/INFO]: UUID of player keirmcrae1233 is 62b6a614-1aa9-4a45-bd15-04f7725fb4fa
+[00:02:50] [Server thread/INFO]: keirmcrae1233[/2.24.138.119:54389] logged in with entity id 1094451 at (1022.1694718648343, 72.0, -321.82148707390246)
+[00:02:50] [Server thread/INFO]: keirmcrae1233 joined the game
+[00:04:33] [Server thread/WARN]: Fetching addPacket for removed entity
+[00:16:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[00:24:36] [Server thread/INFO]: Woodie2714 lost connection: Disconnected
+[00:24:36] [Server thread/INFO]: Woodie2714 left the game
+[00:28:50] [Server thread/WARN]: Fetching addPacket for removed entity
+[00:36:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[00:38:32] [Server thread/INFO]: keirmcrae1233 has made the advancement [What a Deal!]
+[01:04:25] [Server thread/INFO]: [Server] soory got to go off now
+[01:04:28] [Server thread/INFO]: <keirmcrae1233> :(
+[01:04:29] [Server thread/INFO]: Stopping server
+[01:04:29] [Server thread/INFO]: Saving players
+[01:04:30] [Server thread/INFO]: Dodo_Mark21 lost connection: Internal Exception: java.lang.StackOverflowError
+[01:04:30] [Server thread/INFO]: Dodo_Mark21 left the game
+[01:04:30] [Server thread/INFO]: Saving worlds
+[01:04:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:04:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:04:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:04:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:04:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:04:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:04:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:04:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:04:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

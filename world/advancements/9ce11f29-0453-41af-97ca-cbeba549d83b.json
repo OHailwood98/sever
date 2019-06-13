@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-06-12 18:12:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2019-06-08 15:26:52 +0100"
@@ -320,6 +326,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2019-06-08 16:19:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-06-12 18:12:46 +0100"
     },
     "done": true
   },
@@ -597,7 +609,8 @@
       "minecraft:enderman": "2019-06-09 13:10:19 +0100",
       "minecraft:stray": "2019-06-10 19:08:39 +0100",
       "minecraft:zombie": "2019-06-08 15:17:11 +0100",
-      "minecraft:drowned": "2019-06-08 15:17:04 +0100"
+      "minecraft:drowned": "2019-06-08 15:17:04 +0100",
+      "minecraft:zombie_villager": "2019-06-12 20:37:12 +0100"
     },
     "done": false
   },
@@ -827,6 +840,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2019-06-08 17:19:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2019-06-12 18:38:45 +0100"
     },
     "done": true
   },
@@ -1657,6 +1676,7 @@
       "cooked_cod": "2019-06-10 19:42:01 +0100",
       "bread": "2019-06-08 15:39:12 +0100",
       "rotten_flesh": "2019-06-08 15:36:12 +0100",
+      "salmon": "2019-06-12 18:38:55 +0100",
       "beetroot": "2019-06-08 17:01:29 +0100",
       "cooked_chicken": "2019-06-08 15:35:32 +0100",
       "carrot": "2019-06-10 19:33:30 +0100"
@@ -1771,6 +1791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-06-12 18:12:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2019-06-08 15:38:21 +0100"
@@ -1804,6 +1830,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2019-06-08 15:26:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-06-12 18:12:46 +0100"
     },
     "done": true
   },
@@ -2021,6 +2053,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-06-08 15:55:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-06-12 18:38:45 +0100"
     },
     "done": true
   },
@@ -2282,6 +2320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-06-12 18:12:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-06-08 15:42:17 +0100"
@@ -2432,6 +2476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-06-12 18:12:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2019-06-08 15:32:50 +0100"
@@ -2501,6 +2551,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-06-08 15:26:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-06-12 18:38:45 +0100"
     },
     "done": true
   },
@@ -2819,6 +2875,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-06-08 15:33:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-06-12 18:12:46 +0100"
     },
     "done": true
   },

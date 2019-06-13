@@ -293,15 +293,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2019-06-11 19:32:05 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2019-06-11 19:17:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2019-06-11 19:32:05 +0100"
     },
     "done": true
   },

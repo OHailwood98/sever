@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-06-13 21:07:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2019-06-08 16:08:12 +0100"
@@ -614,7 +620,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2019-06-08 16:21:20 +0100",
+      "minecraft:blaze": "2019-06-13 21:17:34 +0100",
       "minecraft:skeleton": "2019-06-08 15:37:39 +0100",
+      "minecraft:zombie_pigman": "2019-06-13 21:14:11 +0100",
       "minecraft:spider": "2019-06-08 15:20:58 +0100",
       "minecraft:creeper": "2019-06-09 17:14:21 +0100",
       "minecraft:phantom": "2019-06-09 21:34:47 +0100",
@@ -627,9 +635,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2019-06-13 21:19:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2019-06-08 19:46:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-06-13 20:41:48 +0100"
     },
     "done": true
   },
@@ -822,6 +842,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2019-06-11 19:16:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-06-13 21:17:33 +0100"
     },
     "done": true
   },
@@ -1173,6 +1199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2019-06-13 21:19:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2019-06-08 20:43:41 +0100"
@@ -1188,6 +1220,7 @@
       "minecraft:mountains": "2019-06-08 16:21:10 +0100",
       "minecraft:taiga": "2019-06-08 15:15:35 +0100",
       "minecraft:deep_cold_ocean": "2019-06-08 15:18:14 +0100",
+      "minecraft:snowy_tundra": "2019-06-13 20:34:32 +0100",
       "minecraft:taiga_hills": "2019-06-08 15:27:27 +0100",
       "minecraft:desert": "2019-06-11 19:27:58 +0100",
       "minecraft:deep_frozen_ocean": "2019-06-08 15:49:47 +0100",
@@ -1382,6 +1415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2019-06-13 21:19:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2019-06-08 15:32:34 +0100"
@@ -1445,6 +1484,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2019-06-08 15:30:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2019-06-13 21:19:42 +0100"
     },
     "done": true
   },
@@ -2497,6 +2542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2019-06-13 21:19:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2019-06-08 15:25:46 +0100"
@@ -2629,6 +2680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-06-13 21:17:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2019-06-11 19:16:51 +0100"
@@ -2674,6 +2731,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2019-06-09 00:48:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-06-13 21:17:33 +0100"
     },
     "done": true
   },

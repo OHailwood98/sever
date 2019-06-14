@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2019-06-13 20:24:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2019-06-09 16:12:42 +0100"
@@ -1871,6 +1877,7 @@
       "cooked_porkchop": "2019-06-08 15:31:43 +0100",
       "sweet_berries": "2019-06-09 23:39:43 +0100",
       "cooked_beef": "2019-06-08 17:42:06 +0100",
+      "baked_potato": "2019-06-13 20:54:29 +0100",
       "apple": "2019-06-08 17:03:17 +0100",
       "spider_eye": "2019-06-12 17:08:49 +0100",
       "cooked_cod": "2019-06-08 21:38:52 +0100",

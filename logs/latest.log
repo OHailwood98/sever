@@ -1,29 +1,44 @@
-[00:25:32] [Server thread/WARN]: Fetching addPacket for removed entity
-[00:25:32] [Server thread/WARN]: Fetching addPacket for removed entity
-[00:33:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2738ms or 54 ticks behind
-[00:37:52] [Server thread/INFO]: keirmcrae1233 has completed the challenge [Sniper Duel]
-[00:41:32] [Server thread/WARN]: Fetching addPacket for removed entity
-[00:42:44] [Server thread/WARN]: Fetching addPacket for removed entity
-[00:48:27] [Server thread/WARN]: keirmcrae1233 moved too quickly! 4.027741445445116,-0.46519890478005266,-9.288102544063918
-[00:48:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2613ms or 52 ticks behind
-[00:50:19] [Server thread/INFO]: keirmcrae1233 lost connection: Disconnected
-[00:50:19] [Server thread/INFO]: keirmcrae1233 left the game
-[00:57:57] [Server thread/WARN]: Fetching addPacket for removed entity
-[01:00:14] [Server thread/WARN]: Fetching addPacket for removed entity
-[01:01:16] [Server thread/WARN]: Fetching addPacket for removed entity
-[01:01:49] [Server thread/WARN]: Fetching addPacket for removed entity
-[01:02:18] [Server thread/WARN]: Fetching addPacket for removed entity
-[01:04:07] [Server thread/INFO]: Stopping server
-[01:04:07] [Server thread/INFO]: Saving players
-[01:04:07] [Server thread/INFO]: Dodo_Mark21 lost connection: Disconnected
-[01:04:07] [Server thread/INFO]: Dodo_Mark21 left the game
-[01:04:07] [Server thread/INFO]: Saving worlds
-[01:04:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[01:04:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:04:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[01:04:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:04:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:04:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:04:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:04:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:04:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:53:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:53:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:53:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:53:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:53:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:53:23] [Server thread/INFO]: Starting minecraft server version 1.14.2
+[17:53:23] [Server thread/INFO]: Loading properties
+[17:53:23] [Server thread/INFO]: Default game type: SURVIVAL
+[17:53:23] [Server thread/INFO]: Generating keypair
+[17:53:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:53:24] [Server thread/INFO]: Using default channel type
+[17:53:24] [Server thread/INFO]: Preparing level "world"
+[17:53:24] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:53:25] [Server thread/INFO]: Loaded 6 recipes
+[17:53:27] [Server thread/INFO]: Loaded 811 advancements
+[17:53:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:53:29] [Server thread/INFO]: Preparing spawn area: 0%
+[17:53:29] [Server thread/INFO]: Preparing spawn area: 0%
+[17:53:29] [Server thread/INFO]: Preparing spawn area: 0%
+[17:53:29] [Server thread/INFO]: Preparing spawn area: 0%
+[17:53:29] [Server thread/INFO]: Time elapsed: 1948 ms
+[17:53:29] [Server thread/INFO]: Done (5.328s)! For help, type "help"
+[18:02:41] [User Authenticator #1/INFO]: UUID of player Dodo_Mark21 is 7f3912b5-025f-46b9-b288-6bb1b73e4b28
+[18:02:41] [Server thread/INFO]: Dodo_Mark21[/2.24.138.119:52233] logged in with entity id 63 at (1033.526962275244, 11.0, -643.4122431340033)
+[18:02:41] [Server thread/INFO]: Dodo_Mark21 joined the game
+[18:02:44] [Server thread/INFO]: Dodo_Mark21 lost connection: Disconnected
+[18:02:44] [Server thread/INFO]: Dodo_Mark21 left the game
+[18:46:45] [User Authenticator #2/INFO]: UUID of player Woodie2714 is dba2145f-851b-4a2e-91f1-c89571958340
+[18:46:45] [Server thread/INFO]: Woodie2714[/80.7.147.136:53541] logged in with entity id 282 at (1221.4329260728746, 62.0, -90.09678445253066)
+[18:46:45] [Server thread/INFO]: Woodie2714 joined the game
+[18:55:45] [Server thread/INFO]: Woodie2714 has made the advancement [Hot Stuff]
+[19:09:42] [Server thread/WARN]: Fetching addPacket for removed entity
+[19:48:17] [Server thread/INFO]: Woodie2714 has made the advancement [Ice Bucket Challenge]
+[20:17:16] [Server thread/WARN]: Fetching addPacket for removed entity
+[20:28:30] [Server thread/WARN]: Fetching addPacket for removed entity
+[20:37:07] [Server thread/INFO]: [Woodie2714: Set the weather to clear]
+[21:34:21] [Server thread/INFO]: Woodie2714 was impaled by Drowned
+[21:34:57] [Server thread/INFO]: Woodie2714 was impaled by Drowned
+[21:35:16] [Server thread/INFO]: [Woodie2714: Set own game mode to Creative Mode]
+[21:36:12] [Server thread/INFO]: [Woodie2714: Set own game mode to Survival Mode]
+[22:19:30] [Server thread/WARN]: Fetching addPacket for removed entity
+[22:28:11] [Server thread/WARN]: Fetching addPacket for removed entity
+[22:35:05] [Server thread/INFO]: Woodie2714 lost connection: Disconnected
+[22:35:05] [Server thread/INFO]: Woodie2714 left the game
